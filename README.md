@@ -55,16 +55,16 @@ https://github.com/ashinantony111/PROJECT--JENKINS-MAVEN-SONARQUBE-NEXUS-TOMCAT/
 ## 📸 Project Screenshots
 
 ### Jenkins Pipeline
-![Pipeline](screenshots/06-pipeline-success.png)
+https://github.com/ashinantony111/PROJECT--JENKINS-MAVEN-SONARQUBE-NEXUS-TOMCAT/blob/b8b5bbedb72dce9e76a26d86b226ca79dd1879de/Screenshots/6.complete-pipeline-success.png
 
 ### SonarQube Analysis
-![SonarQube](screenshots/03-sonarqube-analysis.png)
+https://github.com/ashinantony111/PROJECT--JENKINS-MAVEN-SONARQUBE-NEXUS-TOMCAT/blob/b8b5bbedb72dce9e76a26d86b226ca79dd1879de/Screenshots/3.sonarqube-analysis-success.png
 
 ### Nexus Repository Upload
-![Nexus](screenshots/04-nexus-upload.png)
+https://github.com/ashinantony111/PROJECT--JENKINS-MAVEN-SONARQUBE-NEXUS-TOMCAT/blob/b8b5bbedb72dce9e76a26d86b226ca79dd1879de/Screenshots/4.nexus-artifact-upload.png
 
 ### Apache Tomcat Deployment
-![Tomcat](screenshots/05-tomcat-deployment.png)
+https://github.com/ashinantony111/PROJECT--JENKINS-MAVEN-SONARQUBE-NEXUS-TOMCAT/blob/b8b5bbedb72dce9e76a26d86b226ca79dd1879de/Screenshots/5.tomcat-deployment.png
 
 ---
 
