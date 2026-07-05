@@ -49,10 +49,7 @@ screenshots/
 
 ## 🏗️ Architecture
 
-> Add your architecture diagram here.
-
-![Architecture](architecture/ci-cd-pipeline-architecture.png)
-
+https://github.com/ashinantony111/PROJECT--JENKINS-MAVEN-SONARQUBE-NEXUS-TOMCAT/tree/3e27dc8aa7403bc064d651cb794afb3fe20d93cd/architeture
 ---
 
 ## 📸 Project Screenshots
